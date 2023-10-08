@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.cabecalho {
+    background-color: #6D8DFF;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0px;
+    font-size: 20px;
+
+}
+
+.cabecalho-texto{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0px 50px;
+}
+
+.bronquite-imagem{
+    width: 70%;
+    padding: 40px;
+}
+
+.sintomas-imagem{
+    width: 60%;
+    padding: 0px 0px 0px 200px;
+}
+
+
+.bronquite{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bronquite-div-conteudo{
+    width: 60%;
+    padding: 0px 100px;
+}
+
+.bronquite-significado{
+    padding: 0px 0px 20px;
+}
+
+.bronquite-significado1{
+    padding: 0px 0px 25px;
+}
+
+.sintomas{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px 100px;
+    display: flex;
+    
+}
+
+.sintomas-div-conteudo{
+    justify-content: center;
+    
+}
+
+.sintomas-titulo{
+    padding: 0px 0px 20px;
+}
+
+.tipos-bronquite{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tipos-imagem{
+    padding: 100px;
+    
+}
+
+.tipos-div-conteudo{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px 100px 0px;
+
+}
+
+.tipos-titulo{
+    padding: 0px 0px 20px;
+}
+
+.tipo1{
+    padding: 50px 0px 25px;
+}
+
+.tipo2{
+    padding: 50px 0px 25px;
+}
+
+.tipo3{
+    padding: 50px 0px 25px;
+}
+.tratamento{
+    padding: 100px 100px;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tratamentos-imagem{
+    width: 90%;
+    padding: 60px;
+
+}
+
+.tratamento-titulo{
+    padding: 100px 0px 100px;
+}
+
+.tratamento1{
+    padding: 0px 0px 100px;
+}
+
+.tratamento2{
+    padding: 0px 0px 100px;
+}
+
+.tratamento3{
+    padding: 0px 0px 100px;
+}
